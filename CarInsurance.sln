@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarIn", "CarIn\CarIn.csproj", "{68A3F179-F020-40A6-BEDC-F04181D64A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarInUnitTest", "CarInUnitTest\CarInUnitTest.csproj", "{58C9F946-2DD7-4567-A872-D41C04B45755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A3F179-F020-40A6-BEDC-F04181D64A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A3F179-F020-40A6-BEDC-F04181D64A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A3F179-F020-40A6-BEDC-F04181D64A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A3F179-F020-40A6-BEDC-F04181D64A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C9F946-2DD7-4567-A872-D41C04B45755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C9F946-2DD7-4567-A872-D41C04B45755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C9F946-2DD7-4567-A872-D41C04B45755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C9F946-2DD7-4567-A872-D41C04B45755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60DAC2A3-CAC4-49E9-A860-2625658B312A}
+	EndGlobalSection
+EndGlobal
